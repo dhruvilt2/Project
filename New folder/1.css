@@ -1,0 +1,39 @@
+.search-bar{
+
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+#bar{
+    height: 25px;
+    border-radius: 2px;
+    border : none;
+}
+
+body{
+    background-color:black;
+}
+
+button:hover{
+    
+    background-color: black;
+    color:rgb(128, 177, 241);
+}
+
+button{
+
+    margin-left: 6px;
+    border-radius: 50px;
+    border: none;
+}
+
+#mapid { height:520px ; width: 600px;}
+
+.map{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    margin: 25px;
+}
